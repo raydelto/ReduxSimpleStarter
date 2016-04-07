@@ -1,5 +1,11 @@
 # ReduxSimpleStarter
 
+This is the fork of the ReduxSimpleStarter created by Raydelto Hernandez.
+
+Here I'm posting my complete code , which you can see running at http://youtube.raydelto.org/ .
+
+Below you can find all the information on the project and the Udemy course written by its creator. It's a very well structured course.  I highly recommend it.
+
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ###Getting Started###
